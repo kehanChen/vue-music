@@ -1,21 +1,11 @@
 # vue-music
+数据来源：QQ音乐
 
-> 音乐播放器
+## 克隆后
+1.npm install 安装相关依赖
+2.npm run dev 运行
 
-## Build Setup
+## 服务器没整明白，暂时还没放上去。所以部分数据无法成功加载（推荐歌单的具体数据和歌词）
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 项目预览地址：
+>https://github.com/kehanChen/vue-music
