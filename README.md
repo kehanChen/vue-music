@@ -8,4 +8,4 @@
 ## 服务器没整明白，暂时还没放上去。所以部分数据无法成功加载（推荐歌单的具体数据和歌词）
 
 # 项目预览地址：
->https://github.com/kehanChen/music-view/
+>https://kehanchen.github.io/music-view/
